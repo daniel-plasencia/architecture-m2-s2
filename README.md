@@ -7,3 +7,5 @@
 ### Herencias
 - La respresentación de herencia en UML es:
   <img src="images/herencia.png">
+
+### Instancias
