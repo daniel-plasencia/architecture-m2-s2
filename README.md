@@ -9,3 +9,4 @@
   <img src="images/herencia.png">
 
 ### Instancias
+- La respresentación de instancia en UML es:
